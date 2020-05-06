@@ -1,2 +1,2 @@
 # descarga-pdf-springer
-Descarga de libros gratuitos de Springer, en formato pdf o epub
+Script en R para descarga de libros gratuitos de Springer, en formato pdf o epub
